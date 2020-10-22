@@ -1,3 +1,4 @@
+//Using Muiltple pointers
 function areThereDuplicates(...args) {
     args.sort((a,b) => a > b);
     var start = 0
